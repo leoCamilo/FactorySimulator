@@ -16,5 +16,4 @@ A college project to simulate bearing factory proccess
   ```
     java MainProgram 200 5 6 5
   ```
-  
-  ![print][/screenshot/print.png]
+  <img src="/screenshot/print.png">
